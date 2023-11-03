@@ -6,7 +6,7 @@
 
 ### Objetivo 🧠
 * Miniprojeto da disciplina de Banco de Dados II a fim de implementar conceitos de dados semiestruturados.
-
+* Tratar dados brutos(JSON), fornecidos pela força aérea, interdependentes, e mapear p/ banco relacional.
 
 ### Ferramentas 🔨
 
@@ -16,4 +16,3 @@
 ### Contribuidores
 * [Rharhuandrew Souza](https://github.com/Rharhuky)
 * [Carlos Ryan](https://github.com/CarlosRyan07)
-# MiniProjeto-dados_semiestruturados
